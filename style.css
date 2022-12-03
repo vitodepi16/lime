@@ -1,0 +1,75 @@
+body{
+  background-image: url(sfondo.jpg);
+  background-size:cover;
+  background-position:top;
+  background-repeat: no-repeat;
+}
+.contenitore {
+  width: 400px;
+  margin: auto;
+}
+.logo{
+  width: 170px;
+  margin-top: 90px;
+  margin-left: 110px;
+  margin-right: 90px;
+  display: inline-block;
+}
+
+.second-title{
+  color: mediumseagreen;
+  font-size: 20px;
+  margin-left: 40px;
+  font-style: garamond;
+  font-weight: bold;
+}
+.prenotazioni{
+    background-color: rgb(0, 255, 0) ;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 80px;
+    padding-top: 10px;
+    padding-left: 19px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+
+}
+.transbox {
+  margin-left: 180px;
+  margin-right: 180px;
+  margin-bottom: 100px;
+  background-color:#000000a6;
+  border: 1px solid black;
+  border-radius: 25px;
+  padding-bottom: 60px;
+}
+.lista{
+  margin-left: 100px;
+}
+
+.testo{
+  color: white;
+  size: 10px;
+}
+
+.rcorners1 {
+  background:rgb(255, 165, 0);
+  border-radius: 25px;
+  margin-right: 500px;
+}
+
+.rcorners2 {
+  border-radius: 25px;
+  background: green;
+  margin-right: 350px;
+}
+
+.rcorners3 {
+  background:rgb(255, 0, 0);
+  border-radius: 25px;
+  margin-right: 600px;
+}
+
+.freccia{
+  color: white;
+}
